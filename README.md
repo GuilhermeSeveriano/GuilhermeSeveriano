@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Gui Severiano &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b22222&height=180&section=header&text=Gui Severiano &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=23&duration=5009&color=62ACE6&multiline=false&width=1000&lines=I'm+Guilherme;Study+analysis+and+systems+development)](https://git.io/typing-svg)
 
