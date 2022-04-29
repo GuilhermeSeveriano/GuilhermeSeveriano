@@ -11,7 +11,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=GuilhermeSeveriano&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeSeveriano&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -42,7 +42,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
     
     
-   ![Snake animation](https://github.com/GuilhermeSeveriano/GuilhermeSeveriano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuilhermeSeveriano/GuilhermeSeveriano/blob/output/github-contribution-grid-snake.svg)
   
   </div>
   
